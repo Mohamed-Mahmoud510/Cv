@@ -4582,7 +4582,7 @@ a.post-thumbnail:hover {
 
 .home-page-second-style .home-photo .hp-inner {
   background-image: url(../images/main_photo.jpg);
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
   height: auto;
@@ -4708,7 +4708,7 @@ a.post-thumbnail:hover {
 
 .home-page-third-style .home-photo .hp-inner {
   background-image: url(../images/main_photo.jpg);
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
   height: auto;
